@@ -1,4 +1,3 @@
-```python
 import requests
 from lyrics_finder import get_lyrics
 
@@ -29,4 +28,3 @@ if __name__ == "__main__":
         if user_input == "quit":
             break
         chatbot.handle_command(user_input)
-```
