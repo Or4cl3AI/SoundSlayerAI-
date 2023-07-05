@@ -1,4 +1,3 @@
-```python
 import music_player
 import song_search
 import vocal_remover
@@ -27,4 +26,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
