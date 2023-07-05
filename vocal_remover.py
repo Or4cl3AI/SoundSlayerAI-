@@ -1,4 +1,3 @@
-```python
 import ffmpeg
 
 def vocals(song_path):
@@ -15,4 +14,3 @@ def vocals(song_path):
         return None
 
     return output_path
-```
