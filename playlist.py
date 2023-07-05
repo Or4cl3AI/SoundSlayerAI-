@@ -1,4 +1,3 @@
-```python
 class Song:
     def __init__(self, title, artist, path):
         self.title = title
@@ -38,4 +37,3 @@ class Playlist:
             return None
 
 current_playlist = Playlist()
-```
