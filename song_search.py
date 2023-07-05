@@ -1,4 +1,3 @@
-```python
 import requests
 import json
 
@@ -23,4 +22,3 @@ def search(song_name):
         songs.append(song)
 
     return songs
-```
