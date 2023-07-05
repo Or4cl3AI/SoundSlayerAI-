@@ -1,4 +1,3 @@
-```python
 import os
 import mpg123
 
@@ -48,4 +47,3 @@ def previous_song():
         current_index = current_playlist.index(current_song)
         prev_index = (current_index - 1) % len(current_playlist)
         play(prev_index)
-```
