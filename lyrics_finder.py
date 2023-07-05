@@ -1,4 +1,3 @@
-```python
 import requests
 import json
 
@@ -16,4 +15,3 @@ def get_lyrics(song_name):
 if __name__ == "__main__":
     song_name = input("Enter the song name: ")
     print(get_lyrics(song_name))
-```
